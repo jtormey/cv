@@ -8,6 +8,12 @@
 
 ## Experience
 
+### Upside
+
+Co-Founder and CTO (May 2021 to present)
+
+Upside offers extended payment terms on inventory purchases to brands in the consumer goods industry. Operating in a "buy now, pay later" fashion allows brands to have a healthier cash conversion cycle, delay raising capital on equity, and use their cash on the things that matter most to their business.
+
 ### 93software
 
 Founder and CEO (August 2019 to present)
@@ -31,7 +37,7 @@ Co-Founder (April 2020 to June 2020)
 
 ### FlowEngine
 
-Head of Development (July 2018 to present)
+Head of Development (July 2018 to May 2021)
 
 [FlowEngine](https://flowengine.io/) is an early stage startup that aims to revolutionize how people connect with individuals in their network by leveraging common connections and shared experiences.
 
