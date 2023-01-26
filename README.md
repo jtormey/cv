@@ -18,7 +18,7 @@ Senior Software Engineer II (October 2022 to present)
 
 Co-Founder and CTO (May 2021 to October 2022)
 
-🎉 Upside was acquired by Ampla in October 2022
+> 🎉 *Upside was acquired by Ampla in October 2022.*
 
 [Upside](https://upsidefinancing.com/) offers extended payment terms on inventory purchases to brands in the consumer goods industry. Operating in a "buy now, pay later" fashion allows brands to have a healthier cash conversion cycle, delay raising capital on equity, and use their cash on the things that matter most to their business.
 
