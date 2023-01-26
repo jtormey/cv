@@ -8,11 +8,25 @@
 
 ## Experience
 
+### Ampla
+
+Senior Software Engineer II (October 2022 to present)
+
+[Ampla](https://www.getampla.com/) provides tech-enabled financial solutions to help businesses grow.
+
 ### Upside
 
-Co-Founder and CTO (May 2021 to present)
+Co-Founder and CTO (May 2021 to October 2022)
 
-Upside offers extended payment terms on inventory purchases to brands in the consumer goods industry. Operating in a "buy now, pay later" fashion allows brands to have a healthier cash conversion cycle, delay raising capital on equity, and use their cash on the things that matter most to their business.
+🎉 Upside was acquired by Ampla in October 2022
+
+[Upside](https://upsidefinancing.com/) offers extended payment terms on inventory purchases to brands in the consumer goods industry. Operating in a "buy now, pay later" fashion allows brands to have a healthier cash conversion cycle, delay raising capital on equity, and use their cash on the things that matter most to their business.
+
+* Built Upside's extended payment terms platform using Elixir, Phoenix, LiveView, Ecto, TailwindCSS as tools.
+* Hired team of senior engineers to continue the development of Upside's platform
+* Responsible for planning engineering & product roadmaps, communicating them to Upside's board of investors, and bringing them to market
+* Managed all security and cloud infrastructure (GitHub, GCP, Terraform) until hiring for those roles.
+* Worked closely with the C-level team at acquiring company to demonstrate the quality of Upside's product, code, and infrastructure.
 
 ### 93software
 
