@@ -79,10 +79,10 @@ Crypto-Engineering Developer (February 2015 to August 2019)
 
 ## Competencies
 
-* Languages: JavaScript, Elixir, Kotlin, Java, Elm, HTML, CSS (as seen on [repository homepage](https://github.com/jtormey/cv))
+* Languages: Elixir, TypeScript, Kotlin, Java, Elm, HTML, CSS (as seen on [repository homepage](https://github.com/jtormey/cv))
 * Databases: Postgres, Redis, Neo4j
 * Frontend Frameworks: React, Svelte, AngularJS
-* Frontend Tools: Styled Components, TailwindCSS
+* Frontend Tools: Tailwind UI, TailwindCSS, Styled Components
 
 ## References
 
